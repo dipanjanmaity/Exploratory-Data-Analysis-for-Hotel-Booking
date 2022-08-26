@@ -1,2 +1,1 @@
-# Hotel-Booking-Analysis
-Exploratory Data Analysis on Hotel Booking using Python
+# Exploratory Data Analysis (EDA) on Hotel Booking using Python
