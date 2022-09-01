@@ -1,4 +1,4 @@
-# :right arrow: Metadata
+# :bulb: Metadata
 
 1. **hotel** : Hotel(Resort Hotel or City Hotel)
 
