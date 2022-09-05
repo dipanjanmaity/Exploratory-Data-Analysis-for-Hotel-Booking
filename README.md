@@ -1,6 +1,6 @@
 # :hotel: Exploratory Data Analysis (EDA) on the Hotel Booking Dataset using Python
 
-In this project I have analysed a Hotel Booking Dataset. This dataset contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces and many things.
+In this project I have analysed a Hotel Booking Dataset. This dataset contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and babies, and the number of available parking spaces and many things.
 
 <br>
 
