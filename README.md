@@ -33,7 +33,7 @@ The major goal of this project is to investigate and analyze data in order to id
   -	What percentage of customer-made changes to bookings?
   -	Which cuisine is most popular among the visitors?
   -	What is the Deposit type's percentage distribution?
-  -	Top ten countries from which the most visitors arrive
+  -	Top ten countries from which the most visitors arrive.
   -	Which kind of room is most popular among customers?
   -	Which month received the most reservations?
   -	Which distribution method is most popular for hotel reservations?
