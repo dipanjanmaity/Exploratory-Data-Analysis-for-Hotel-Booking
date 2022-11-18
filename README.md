@@ -74,7 +74,18 @@ The major goal of this project is to investigate and analyze data in order to id
 
 <p align="center"><a href="Presentation/Presentation on EDA- Hotel Booking Dataset.pdf"><img src= https://user-images.githubusercontent.com/79499162/188312260-361a3730-c97b-4341-ab1e-44f131f0a177.png></a></p>
 
+<br>
 
+  - Import all the neccesary libraries like numpy, pandas, matplotlib and seaborn.
+  - Imported the data file containing booking information for a city hotel and a resort hotel.
+  - Did a bit of data cleaning by removing the null values and assigning some null values with certain data.
+  - Stated analysing the data by using pandas function like groupby, sort_values etc.
+  - Used concat and merge fuction wherever reguired.
+  - Used matplotlib and seaborn charts for the better understanding and visualisation of data.
+  - Provided some of the findings based on the analysis.
+  
+ <br>
+  
 
 
 
